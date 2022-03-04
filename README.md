@@ -8,25 +8,25 @@ This group of three smart contracts serves the purpose of creating a crypto curr
 ## Evaluation Evidence
 
 Creation of the Cryptocurrency
-![Coin Contract](Evaluation_Evidence/Coin_Contract.jpg)
+![Coin Contract](Evaluation_Evidence/Coin_Contract.JPG)
 
 Creation of the Crowdsale contract
-![Crowdsale Contract](Evaluation_Evidence/Crowdsale_Contract.jpg)
+![Crowdsale Contract](Evaluation_Evidence/Crowdsale_Contract.JPG)
 
 Creation of the Crowdsale
-![Crowdsale Deployer](Evaluation_Evidence/Crowdsale_Deployer.jpg)
+![Crowdsale Deployer](Evaluation_Evidence/Crowdsale_Deployer.JPG)
 
 Crowdsale contract information after deployment
-![Crowdsale Deployed Contract](Evaluation_Evidence/Crowdsale_deployed_contract.jpg)
+![Crowdsale Deployed Contract](Evaluation_Evidence/Crowdsale_deployed_contract.JPG)
 
 Active Crowdsale transaction information
-![Crowdsale Contract Deployed](Evaluation_Evidence/Crowdsale_contract_deployed.jpg)
+![Crowdsale Contract Deployed](Evaluation_Evidence/Crowdsale_contract_deployed.JPG)
 
 Coin Transactions logged on the chain
-![Coin Deployed](Evaluation_Evidence/Coin_deployed.jpg)
+![Coin Deployed](Evaluation_Evidence/Coin_deployed.JPG)
 
 Balance transactions in the chain as shown in Ganache
-![Account Balances](Evaluation_Evidence/Account_Balances.jpg)
+![Account Balances](Evaluation_Evidence/Account_Balances.JPG)
 
 Metamask showing the account with active KaseiCoin in the wallet
-![Metamask Coin Balance](Evaluation_Evidence/Coin_Balance.jpg)
+![Metamask Coin Balance](Evaluation_Evidence/Coin_Balance.JPG)
